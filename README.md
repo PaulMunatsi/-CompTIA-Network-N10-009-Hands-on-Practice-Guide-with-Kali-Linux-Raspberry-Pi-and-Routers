@@ -276,10 +276,6 @@ sudo tail -f /var/log/syslog
 
 ---
 
-> ✅ **Pro Tip**: Save this guide as a `README.md` on your GitHub repo. Track each activity with checkboxes and commit changes to show progress.
-
----
-
 ## 🧩 Suggestions for Extension
 
 * Integrate Docker Compose for lab orchestration
@@ -287,6 +283,3 @@ sudo tail -f /var/log/syslog
 * Build GitHub Actions to validate lab submissions automatically
 
 ---
-
-**Authored for:** *Kali Linux, Raspberry Pi, OpenWrt/TP-Link* environments
-**Based on:** CompTIA Network+ N10-009 + Professor Messer Notes
