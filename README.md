@@ -1,4 +1,3 @@
-```markdown
 # 🧪 CompTIA Network+ (N10-009) Hands-on Practice Guide with Kali Linux, Raspberry Pi, and Routers
 
 This guide provides hands-on exercises for each of the 5 major domains of the CompTIA Network+ (N10-009) certification. You can follow these step-by-step labs using:
@@ -20,7 +19,7 @@ This section focuses on the foundational principles of networking, including the
 
 This exercise will help you visualize the various layers of the OSI model by inspecting live network traffic.
 
-```bash
+```
 # Update package lists and install Wireshark, a powerful network protocol analyzer.
 sudo apt update && sudo apt install wireshark -y
 # Add your current user to the 'wireshark' group to allow non-root packet capture.
